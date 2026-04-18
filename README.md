@@ -174,9 +174,22 @@ streamlit run app/app.py
 
 ---
 
-## 📸 Dashboard Preview
+## 📊 Visual Insights
 
-(Add your screenshots here)
+### 🌡 Temperature Trend
+![Temperature](outputs/plots/temperature_trend.png)
+
+### 🌧 Rainfall Trend
+![Rainfall](outputs/plots/rainfall_trend.png)
+
+### 📈 Forecast
+![Forecast](outputs/plots/forecast.png)
+
+### ⚠️ Anomaly Detection
+![Anomalies](outputs/plots/anomalies.png)
+
+### 🌍 CO₂ vs Temperature
+![CO2](outputs/plots/co2_vs_temp.png)
 
 ---
 
